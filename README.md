@@ -4,7 +4,7 @@ A dynamic web page for an application built with only HTML, CSS & vanilla JavaSc
 
 Try the live demo [right here](https://rashaali84.github.io/Sort-Without-Articles/index.html), it looks something like this:
 
-[To-do list Project screen shot](./images/prajs.png)]https://rashaali84.github.io/practical-javascript-/)
+[![To-do list Project screen shot](./images/prajs.png)](https://rashaali84.github.io/practical-javascript-/)
 
 [Please click here for the wire-frame link of the project](https://wireframe.cc/OjvAvT)
 
