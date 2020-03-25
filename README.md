@@ -4,7 +4,7 @@ A dynamic web page for an application built with only HTML, CSS & vanilla JavaSc
 
 Try the live demo [right here](https://rashaali84.github.io/Sort-Without-Articles/index.html), it looks something like this:
 
-[![To-do list Project screen shot](./images/prajs.png)]https://rashaali84.github.io/practical-javascript-/)
+[To-do list Project screen shot](./images/prajs.png)]https://rashaali84.github.io/practical-javascript-/)
 
 [Please click here for the wire-frame link of the project](https://wireframe.cc/OjvAvT)
 
@@ -15,9 +15,9 @@ Try the live demo [right here](https://rashaali84.github.io/Sort-Without-Article
 Studying this project we learned about:
 
 - Array and its related functions like ( sort , filter , map , includes ..)
-- objects and the using of this keyword .
+- Objects and the using of this keyword .
 - How to divide and organize projects into modules .
-- different kind of data-types and loops ..
+- Different kind of data-types and loops ..
 - Create whole project for the to-do list with writing user-stories that affects multiple parts of the project .
 
 * [Watch and code free course for vanilla java-script](https://watchandcode.com/courses/enrolled/60264)
